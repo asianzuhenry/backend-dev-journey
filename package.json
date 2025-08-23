@@ -1,0 +1,19 @@
+{
+  "name": "backend-dev-journey",
+  "version": "1.0.0",
+  "description": "A collection of projects and practice code while learning backend development with **Node.js**, **Express**, and databases (**MongoDB & PostgreSQL**). This repository documents my journey from fundamentals to advanced backend concepts, with real-world project implementations.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asianzuhenry/backend-dev-journey.git"
+  },
+  "author": "Asianzu Henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asianzuhenry/backend-dev-journey/issues"
+  },
+  "homepage": "https://github.com/asianzuhenry/backend-dev-journey#readme"
+}
