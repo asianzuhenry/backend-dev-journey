@@ -1,0 +1,13 @@
+{
+  "name": "intermediate-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-patterns.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
