@@ -1,0 +1,21 @@
+{
+  "name": "advanced-nodejs",
+  "version": "1.0.0",
+  "description": "A project for advanced Node.js concepts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node jwt-auth.js"
+  },
+  "keywords": [
+    "Node.js",
+    "advanced",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
