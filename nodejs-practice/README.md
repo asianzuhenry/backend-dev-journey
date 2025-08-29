@@ -10,7 +10,7 @@ Objective: Learn to handle async operations with callbacks, promises, and async/
 
 - **Print total combined size without blocking execution.**
 
-- **Goal: Compare all 3 async styles and understand readability + error handling.**
+Goal: Compare all 3 async styles and understand readability + error handling.
 
 ## 2️⃣ File Streams
 
@@ -26,7 +26,7 @@ Objective: Learn streaming for large file operations.
 
 - **Add compression using zlib.**
 
-- **Goal: See how streams save memory compared to fs.readFile().**      
+Goal: See how streams save memory compared to fs.readFile().
 
 ## 3️⃣ JWT Authentication
 
